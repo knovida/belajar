@@ -1,0 +1,44 @@
+.lesson-wrapper {
+  height: 500px;
+  padding-bottom: 80px;
+  background-color: #f7f7f7;
+  text-align: center;
+  font-size: 40px;
+}
+
+.heading {
+  padding-top: 60px;
+  padding-bottom: 75px;
+  color: #5f5d60;
+}
+
+.heading h2 {
+  font-weight: bold;
+  margin-bottom: 25px;
+}
+
+.lesson {
+  float: left;
+  width: 25%;
+}
+
+.lesson-icon {
+  position: relative;
+  margin-bottom: 30px
+}
+
+.lesson-icon p {
+  position: absolute;
+  width: 50%;
+  color: white;
+  margin-top: 20px;
+}
+
+.txt-contents {
+  width: 80%;
+  display: inline-block;
+  margin-top: 20px;
+  font-size: 25px;
+  color: #000;
+  font-weight: bold;
+}
